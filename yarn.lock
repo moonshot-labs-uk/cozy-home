@@ -3266,17 +3266,17 @@ cozy-interapp@0.4.9:
   resolved "https://registry.yarnpkg.com/cozy-interapp/-/cozy-interapp-0.4.9.tgz#5ef68d54755cc99c3e154e5a4646b68cbe5f16fd"
   integrity sha512-skyjrewnMu5zMfST7vTNGl3jsuWae1Iwfdev6pW9RLgb58M7oBSpsIa3ofRANv5tx0XVQDVSEzWvbFQ84WJPSg==
 
-cozy-keys-lib@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/cozy-keys-lib/-/cozy-keys-lib-2.0.0.tgz#2148f2076554be36a2324ecfd8edab6ca5d88f43"
-  integrity sha512-MWaLWXTlrZbkKdEHv7hq2pSnlgDfuiwID5RnDP/2q8w6o7Ns24kmRi1TdQhOYemqMrrJ9oAbR+7zzlwaYW17Bw==
+cozy-keys-lib@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/cozy-keys-lib/-/cozy-keys-lib-2.1.0.tgz#61435fbb299a116971ae329105013c11e20ec8b4"
+  integrity sha512-vmvRsrAThRSRuZHlE46RqX96ffzNpuBN7AVvncP9F4VPkDpNLRkQ30fFOaSyW6DwoMfxXHe2prJCJLwOdFZVEw==
   dependencies:
     "@aspnet/signalr" "^1.1.4"
     "@aspnet/signalr-protocol-msgpack" "^1.1.0"
     big-integer "^1.6.44"
     classnames "^2.2.6"
     cozy-device-helper "^1.7.5"
-    cozy-ui "^24.0.0"
+    cozy-ui "28.7.0"
     lodash "^4.17.15"
     lunr "^2.3.6"
     microee "^0.0.6"
