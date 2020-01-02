@@ -3406,10 +3406,10 @@ cozy-ui@28.7.0:
     react-select "2.2.0"
     react-swipeable-views "0.13.3"
 
-cozy-ui@^24.0.0:
-  version "24.8.0"
-  resolved "https://registry.yarnpkg.com/cozy-ui/-/cozy-ui-24.8.0.tgz#0c1c0c413aabeae0a43902bde49c4981a1e078a6"
-  integrity sha512-ukW/j74XBhfazQzkLAbS/TSJVwf6UaUveARUWwbff5gZGy1JMrWCUZIo6VGOx9K4RJ1W+U3NuKI5Xx/3DBwXBw==
+cozy-ui@28.9.1:
+  version "28.9.1"
+  resolved "https://registry.yarnpkg.com/cozy-ui/-/cozy-ui-28.9.1.tgz#6e1920e1d982d9e73873cdeaf1347de0e113f540"
+  integrity sha512-Bsz8RIQ4WU5RBgWdk1CaprWl3GAoug3WyA5BBDnBft9X4KnFF341TO4Lm1A/9+epP5NMK9kxXTRGRkTAtW2GDA==
   dependencies:
     "@babel/runtime" "^7.3.4"
     body-scroll-lock "^2.5.8"
@@ -3422,6 +3422,7 @@ cozy-ui@^24.0.0:
     react-markdown "^4.0.8"
     react-pdf "^4.0.5"
     react-select "2.2.0"
+    react-swipeable-views "0.13.3"
 
 create-ecdh@^4.0.0:
   version "4.0.3"
